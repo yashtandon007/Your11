@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "scheme": "your11",
+    "name": "Your11",
+    "slug": "Your11",
+    "version": "2.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "facebookAppId":"5045944832098260",
+    "facebookDisplayName":"Your11",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "usesAppleSignIn":true,
+      "supportsTablet": false,
+      "buildNumber": "2.2.9",
+      "bundleIdentifier": "com.onebigbit.your11",
+      "config": { 
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.243076910948-h3d04m7os41ua6g7bsq7ph02k61ee5ig"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 14,
+      "package": "com.onebigbit.your11",
+      "permissions": [
+        "REQUEST_INSTALL_PACKAGES"
+      ],
+      "config":{
+        "googleSignIn":{
+          "apiKey":"AIzaSyAhBcrOxsbasR8bHtI0QkD5XufRmaK-73I",
+          "certificateHash":"B97760C300B60F45CA5382ECD3F7907CF23B2D8F"
+        }
+      }
+    }
+  }
+}

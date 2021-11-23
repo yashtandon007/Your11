@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024694247777",
+    "firebase_url": "https://your11expo.firebaseio.com",
+    "project_id": "your11expo",
+    "storage_bucket": "your11expo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024694247777:android:ff8e73dc8cdd37b702e520",
+        "android_client_info": {
+          "package_name": "com.onebigbit.your11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024694247777-sv9isg096mqnk1v91bpgd6lbqcgqpfnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRFZ_csbCF5sSr-jWQgVpyiaDOl9g2xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024694247777-sv9isg096mqnk1v91bpgd6lbqcgqpfnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
